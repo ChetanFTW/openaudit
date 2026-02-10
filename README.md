@@ -9,3 +9,4 @@ linter consistency, and open-source best practices.
 go run ./cmd/openaudit
 
 # openaudit
+# openaudit
