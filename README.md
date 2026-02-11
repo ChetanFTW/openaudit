@@ -55,4 +55,4 @@ go test ./...
 
 ### License
 
-This project is open source — feel free to choose an appropriate license such as MIT or Apache 2.0.
+This project is open source feel free to choose an appropriate license such as MIT or Apache 2.0.
