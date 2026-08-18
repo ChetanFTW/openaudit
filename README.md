@@ -1,3 +1,5 @@
+
+
 # OpenAudit
 
 OpenAudit is a lightweight, Go-based repository auditing tool that helps developers and open-source projects evaluate code quality, CI setup consistency, and repository best practices — all from the command line.
@@ -6,7 +8,7 @@ OpenAudit is a lightweight, Go-based repository auditing tool that helps develop
 
 ```bash
  Detects if the project has a Go module 
- Checks for CI configuration (GitHub Actions, GitLab CI, etc.)
+ Checks for CI configuration (GitHub Actions)
  Detects common repository files like README.md
  Provides a quick summary report
  Easy to extend with plugins or extra analyzers
